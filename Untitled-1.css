@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(207, 107, 79);
     margin: 0;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 1rem;
@@ -7,36 +7,29 @@ body {
     line-height: 1.5;
     text-align: left;
     color:black;
-    
 }
 ul{
     box-sizing: border-box;
-    background-color: rgb(241, 27, 27);
+    background-color: white;
 }
 h1{
-    font-family:Arial, Helvetica, sans-serif;
-    margin-top: 5px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -15px;
     text-align: center;
     font-size: 4vw;
-    margin-bottom: 10px;    
+    border-bottom: 6px dotted black;
 }
 ul{
+<<<<<<< HEAD:index.css
     display:flex;
     gap: 100px;
     display: flex; justify-content: center;
     display: flex; align-content: center;
-    border-bottom: 5px solid black;
-    border-top: 5px solid black;
     
 }
-#hem, #meny, #kontakt {
-    margin-top: 30px;  
-}
-a {
-  color: white;
-  font-weight: bold;
-}
-a:hover {
-    color: blue;
+=======
+    text-align: left;
+    text-align: center;
 }
  
+>>>>>>> d4e35c5341e2d46b5ef320024c79ef622deae70f:Untitled-1.css
